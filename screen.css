@@ -8,6 +8,15 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Begin site styles below */
 
+/*
+  Typesetting values:
+  - font-size: 19px
+  - line-height: 24px
+  - modular scale: https://www.modularscale.com/?19&px&1.667
+    (major sixth)
+*/
+
+
 html {
   color: #EEE;
   background: #111;
